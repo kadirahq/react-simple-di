@@ -2,13 +2,13 @@
 
 Simple dependancy injection solution for React.
 
-## Installation
+### Installation
 
 ```
 npm i react-simple-di
 ```
 
-## Intro
+### Intro
 
 In `react-simple-di`, we've two types of dependencies, they are:
 
@@ -17,7 +17,7 @@ In `react-simple-di`, we've two types of dependencies, they are:
 
 > Every action will receive the `context` as it's first argument.
 
-## Injecting Dependancies
+### Injecting Dependancies
 
 First, we need to inject dependencies to a root level React component. Mostly, this will be the main layout component of our app.
 
