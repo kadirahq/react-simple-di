@@ -1,5 +1,9 @@
 # ChangeLog
 
+### v1.2.0
+
+* Update React to v15.0.0
+
 ### v1.1.0
 
 * Add support for React Native. See [PR4](https://github.com/kadirahq/react-simple-di/pull/4)
