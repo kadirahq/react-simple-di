@@ -85,7 +85,7 @@ class CreatePost extends React.Component {
 So, let's use dependencies:
 
 ```js
-const {useDeps} from 'react-simple-di';
+import {useDeps} from 'react-simple-di';
 
 // Assume above mentioned CreatePost react component is
 // defined here.
